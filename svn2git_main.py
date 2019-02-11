@@ -38,6 +38,7 @@ if __name__ == "__main__":
               "SVN_URL": "",
               "SVN_USERNAME": "",
               "SVN_PASSWORD": "",
+              "GIT_URL": "",
               "GIT_USERNAME": "",
               "GIT_PASSWORD": ""
         }
