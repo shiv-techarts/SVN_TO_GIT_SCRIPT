@@ -1,4 +1,4 @@
-# SVN_TO_GIT_SCRIPT
+# SVN_TO_GIT_MIGRATION
 
 *Description*
 
