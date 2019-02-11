@@ -1,6 +1,6 @@
 # SVN_TO_GIT_SCRIPT
 
-*Description
+*Description*
 
  SVN2GIT Migration Script is a python script that checks the logs of SVN Repository, Parse it and Create a JSON Dictionary from it.
  Every Key:Value Pair consist of following details
@@ -28,7 +28,7 @@
  
  Once individual commit is done, directory is PUSHED to GIT Origin if GIT_URL is provided else the repo is created locally.
  
-*Requirements
+*Requirements*
 
 [Windows]
 
@@ -53,7 +53,7 @@ Add both the tools in the path
 sudo apt-get install git
 sudo apt-get install svn
 
-*Usage
+*Usage*
 
     python3 svn2git_main.py --config=config.json
 
